@@ -1,7 +1,7 @@
 # text-automation
 text and speech automation using python
 
-instruction 
+Instructions:
 first install python packages and libraries 
 In cmd  python3 -m venv venv
 to activate environment:
